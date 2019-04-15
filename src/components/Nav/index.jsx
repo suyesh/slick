@@ -12,7 +12,7 @@ function Nav() {
           src="https://placekitten.com/64/64"
         />
         <div>
-          <div>Ryan Florence</div>
+          <div>Suyesh Bhandari</div>
           <div>
             <button className="text-button">log out</button>
           </div>

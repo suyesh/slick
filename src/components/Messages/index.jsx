@@ -20,7 +20,7 @@ function Messages() {
               <div className="Avatar" />
               <div className="Author">
                 <div>
-                  <span className="UserName">Ryan Florence </span>
+                  <span className="UserName">Suyesh Bhandari </span>
                   <span className="TimeStamp">3:37 PM</span>
                 </div>
                 <div className="MessageContent">Alright, lets do this.</div>
