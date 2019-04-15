@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 function Members() {
   return (
@@ -6,7 +6,7 @@ function Members() {
       <div>
         <div className="Member">
           <div className="MemberStatus offline" />
-          Ryan Florence
+          Suyesh Bhandari
         </div>
         <div className="Member">
           <div className="MemberStatus online" />
